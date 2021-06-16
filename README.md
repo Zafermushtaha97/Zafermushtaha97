@@ -24,7 +24,12 @@ I'm expert front end developer using Vue js, I am passionate about technologies 
 
 
 ### MY PROJECT
-
+http://bash-g.com:8080/
+https://sadad2020dev.herokuapp.com/
+https://silly-hoover-d16ede.netlify.app/
+https://elegant-colden-c463cf.netlify.app/
+https://stupefied-euclid-fd6db0.netlify.app/
+https://quicknotes-a9feb.web.app/
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/zafermushtaha)
