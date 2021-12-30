@@ -24,10 +24,10 @@ I'm expert front end developer using Vue js, I am passionate about technologies 
 
 
 ### MY PROJECT
+https://sweetly-co.herokuapp.com/
+
+
 http://bash-g.com:8080/
-
-
-https://sadad2020dev.herokuapp.com/
 
 
 https://silly-hoover-d16ede.netlify.app/
